@@ -1,9 +1,3 @@
-/*
-   Elias Woldie
-   CECS 325 Sec02
-   Prog2 - Fibonacci Solitaire
-*/
-
 #include <iostream>
 #include <string>
 #include <time.h>
